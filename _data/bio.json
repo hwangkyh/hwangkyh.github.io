@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Kelly Hwang",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://hwangkyh.github.io/images/displayimage.jpg",
+    "email": "hwangky@hawaii.edu",
+    "phone": "",
+    "website": "https://hwangkyh.github.io",
+    "summary": "I am studying for a B.S. in Computer Science, Data Science Track in the Department of Information and Computer Sciences at the University of Hawai'i at Mānoa. I expect to graduate in Spring 2023.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "96814",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,36 +17,24 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "hwangkyh",
+        "url": "http://github.com/hwangkyh"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "hwangkyh",
+        "url": "http://linkedin.com/in/hwangkyh"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "data science",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "quantitative finance",
       "keywords": [
       ]
     },
@@ -61,12 +49,14 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
+        "Java",
         "C",
         "C++",
-        "Java",
+        "Python",
+        "R",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Arduino",
+        "HTML/CSS"
       ]
     },
     {
@@ -74,21 +64,34 @@
       "level": "",
       "keywords": [
         "MacOS",
+        "iOS",
         "Ubuntu",
+        "Unix",
+        "Linux",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "SQL",
+        "DKAN"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "University of Hawai'i at Mānoa, Honolulu, HI",
+      "area": "Computer Science, Data Science Track (expected Spring, 2023)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2021-01-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.91/4.00",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Hawai'i at Mānoa, Honolulu, HI",
+      "area": "Economics (expected Spring, 2023)",
+      "studyType": "B.A.",
+      "startDate": "2021-01-01",
+      "endDate": "Present",
+      "gpa": "3.91/4.00",
       "courses": [
       ]
     }
