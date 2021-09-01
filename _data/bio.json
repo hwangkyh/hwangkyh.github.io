@@ -98,29 +98,38 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Water Resources Research Center at University of Hawai’i at Mānoa",
+      "position": "Assistant Software Developer",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2021-03-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        ""
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Ames Research Center, National Aeronautics and Space Administration (NASA)",
+      "position": "Summer Full-time Data Analysis Intern",
+      "website": "",
+      "startDate": "2021-05-24",
+      "endDate": "2021-08-13",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        ""
       ]
-    }
+    },
+    {
+      "company": "Board of Student Activities at Kapi’olani Community College",
+      "position": "Vice-Chairperson and Treasurer",
+      "website": "http://www.hawaii.edu/its/",
+      "startDate": "2020-07-01",
+      "endDate": "2021-05-20",
+      "summary": "",
+      "highlights": [
+        ""
+      ]
+    },
   ],
   "volunteer": [
     {
@@ -151,16 +160,10 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Indigenous Knowledge in Engineering, Pre-Engineering Education Collaborative II",
+      "date": "2020",
+      "awarder": "National Science Foundation",
+      "summary": "Scholarships awarded to community college STEM minorities students interested in engineering."
     }
   ],
   "references": [
