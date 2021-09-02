@@ -8,6 +8,8 @@ labels:
   - Software Engineering
 ---
 
+<img class="ui medium right floated rounded image" src="../images/romeo-javascript.png">
+
 What's in a language? Ever since I was younger, I was interested in learning all six of the UN languages. The older I got the more this same interest morphed from spoken languages to programming languages. Initially I started out using HTML and CSS to code and edit themes on Tumblr and Wordpress, and then in 2019 my mentor friend took me to the RISE tech conference in Hong Kong. Being surrounded by so many intelligent and motivated people introduced me to a field that I was always too scared to dip my toes in and dive headfirst in. 
 
 ## A language by any other name would work as well?
@@ -18,4 +20,3 @@ During my time at University of Hawai'i at Mānoa and Kapi'olani Community Colle
 
 Recently I have been grinding LeetCode as I am looking for summer 2022 internships in either data science or quantitative finance so doing this preparation for technical interviews has prepared me for the WODs. I find the practice WODs to be quite fun and almost like a brain teaser, which is wholly unsurprising as sudoku is my favorite game. The pace of the class though is indeed fast, and truly lives up to the name of being "athletic software engineering" which is still slightly intimidating. I am sure though that having consecutive deadlines and a relatively large workload will only ensure my success in the future; after this ICS class I guarantee that I will not only be more confident in my software engineering skills but also in time management and organization. This is perfect as I am currently most interested in working in the field of finance which is notorious for having over 60-hour work weeks. So far there has been no massive trouble, but we are only one and a half weeks into this semester so only future will tell. 
 
-<img class="ui medium right floated rounded image" src="../images/romeo-javascript.png">
