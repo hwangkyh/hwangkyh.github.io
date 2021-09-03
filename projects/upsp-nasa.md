@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/upsp-model.jpg
+image: images/upsp-image.jpg
 title: Data Analysis for Unsteady Pressure Sensitive Paint (uPSP)
 permalink: projects/upsp-nasa
 # All dates must be YYYY-MM-DD format!
