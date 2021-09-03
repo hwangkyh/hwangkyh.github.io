@@ -2,15 +2,13 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+title: uPSP
+permalink: projects/upsp-nasa
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2021-08-13
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
+  - Python
+  - Linux
 summary: A responsive web application for travel planning that my team developed in ICS 415.
 ---
 
