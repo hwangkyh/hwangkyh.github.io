@@ -16,7 +16,7 @@ summary: Created Arduino coding project in sustainability for Indigenous Knowled
 <div class="ui small rounded images">
   <img class="ui image" src="../images/rgb-led.jpg">
   <img class="ui image" src="../images/rgb-led-diagram.png">
-  <img class="ui image" src="../images/panel-led.jppg">
+  <img class="ui image" src="../images/panel-led.jpg">
   <img class="ui image" src="../images/panel-led-diagram.png">
 </div>
 
