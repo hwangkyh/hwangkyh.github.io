@@ -14,10 +14,10 @@ summary: Created Arduino coding project in sustainability for Indigenous Knowled
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/rgb-led.jpg">
+  <img class="ui image" src="../images/rgb-led-diagram.png">
+  <img class="ui image" src="../images/panel-led.jppg">
+  <img class="ui image" src="../images/panel-led-diagram.png">
 </div>
 
 Traditionally, Hawaiians believe that the rainbow is a pathway between the two worlds of the physical and the spiritual. Spiritually, the origin story of rainbows designate them as sad omens by Kahalaopuna, and also signify the presence of aura of ali’i. Rainbows were also used as communal weather forecasts, such as the kuhonu, the “male” upside-down rainbow, predicting flash floods, and six consecutive east facing rainbows predicting the 1931 Halema’uma’u crater eruption. Rainbows are created by water droplets refracting light, and it is this scientific explanation that gave initial inspiration to this project. Influenced by this Hawaiian culture focus, the personal project that is engineering related and also has a sustainability aspect is an LED panel that outputs various colors following Hawaiian mysticism according to time of day. 
