@@ -83,6 +83,7 @@
       "endDate": "Present",
       "gpa": "3.91/4.00",
       "courses": [
+        "C and C++ Programming", "Discrete Mathematics", "Java Programming", "Probability and Statistics"
       ]
     },
     {
@@ -92,7 +93,7 @@
       "startDate": "2021-01-01",
       "endDate": "Present",
       "gpa": "3.91/4.00",
-      "courses": [
+      "courses": ["Econometrics", "Macroeconomics", "Microeconomics", "Statistics (Economics)"
       ]
     }
   ],
@@ -105,7 +106,9 @@
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        ""
+        "Providing computer science and information technology support across various research opportunities and data portals",
+        "Applying data science algorithms to work with data and applying prepackaged software stacks to relevant project tasks",
+        "Technologies used: Linux environment, Ansible, Docker, DKAN, SQL, Node"
       ]
     },
     {
@@ -116,45 +119,47 @@
       "endDate": "2021-08-13",
       "summary": "",
       "highlights": [
-        ""
+        "Analyzed and processed data for unsteady pressure sensitive paint (uPSP) project by cross-correlating kulite microphone and uPSP data for a new wind tunnel pressure measurement system, and additional statistical research",
+        "Produced multiple PSDs using Python scripts to show cross-correlation, time lag, and decay at sampled frequencies", 
+        "Technologies used: Python, Linux environment, data visualization, script automation"
       ]
     },
     {
       "company": "Board of Student Activities at Kapi’olani Community College",
       "position": "Vice-Chairperson and Treasurer",
-      "website": "http://www.hawaii.edu/its/",
+      "website": "",
       "startDate": "2020-07-01",
       "endDate": "2021-05-20",
       "summary": "",
       "highlights": [
-        ""
+        "Collaborated within a diverse college student-run chartered student organization, significantly contributed to the group’s organization via budget strategies, administrative functions, and all key functions of student activities management",
+        "Launched multiple campus-wide events, hosted a variety of online events, created various posters and videos, executed Instagram and Youtube video campaigns in collaboration with campus departments, all with COVID-19 restrictions"
       ]
     },
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "CHKE (Community Events Management)",
+      "website": "",
+      "position": "Events Coordinator and Content Manager",
+      "startDate": "2018-10-01",
+      "endDate": "2020-12-01",
+      "summary": "",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Utilized local hospitality network to bolster engagement and drive business by organizing public and private events",
+        "Founded and nurtured a platform of Hong Kong expatriates by curating relevant content to assist with the organic audience growth on social media, namely Facebook and Instagram, leading to a 10x growth in engagement and followers"
       ]
     },
     {
       "organization": "",
       "website": "",
-      "position": "Professional organization involvement",
+      "position": "Professional Organization Involvement",
       "startDate": "",
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Member, ACM@MANOA (Association for Computing Machinery), 2021-Present",
+        "Member, Virtual NASA Community College Aerospace Scholars (VNCAS): A NASA Experience, 2021-2021"
       ]
     }
   ],
