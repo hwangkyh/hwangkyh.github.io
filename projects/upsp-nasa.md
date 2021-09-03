@@ -9,7 +9,7 @@ date: 2021-08-13
 labels:
   - Python
   - Linux
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+summary: Analyzed and processed data for unsteady pressure sensitive paint (uPSP) project at Ames Research Center, NASA.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/upsp-kulite">
