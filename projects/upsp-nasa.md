@@ -9,7 +9,7 @@ date: 2021-08-13
 labels:
   - Python
   - Linux
-summary: Analyzed and processed data for unsteady pressure sensitive paint (uPSP) project at Ames Research Center, NASA.
+summary: Analyzed and processed data for unsteady pressure sensitive paint (uPSP) project at Ames Research Center, National Aeronautics and Space Administration for summer 2021 internship.
 ---
 
 <div class="ui medium rounded images">
