@@ -13,7 +13,6 @@ summary: Sophomore year collaborative engineering project to launch a autonomous
 ---
 
 <img class="ui medium right floated rounded image" src="../images/container-electrical.png">
-Appropriate description: Your project description should provide at least 3 paragraphs that describe: (1) what the project was about; (2) what your role was and how much of the work you were responsible for; and (3) what did you learn from the experience?
 
 As part of a engineering project at Kapi'olani designed a launchable canister satellite and projectiles according to set objectives for the 2021 CanSat Competition by the American Astronautical Society. For this particular year, the project required the mechananical and electrical teams to collaborate together to create the canister satellite and ejectable autorotating maple seed projectiles. The electrical engineering team, myself and two other computer science students, developed the sensor, communication & data handling, electrical power, flight software, and ground control station subsystems. We also coded Arduinos, MQTT, and Visual Studio for final competition review.
 
