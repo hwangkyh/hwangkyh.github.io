@@ -124,10 +124,12 @@
         "Technologies used: Python, Linux environment, data visualization, script automation"
       ]
     },
+  ],
+  "volunteer": [
     {
-      "company": "Board of Student Activities at Kapi’olani Community College",
-      "position": "Vice-Chairperson and Treasurer",
+      "organization": "Board of Student Activities at Kapi’olani Community College",
       "website": "",
+      "position": "Vice-Chairperson and Treasurer",
       "startDate": "2020-07-01",
       "endDate": "2021-05-20",
       "summary": "",
@@ -136,8 +138,6 @@
         "Launched multiple campus-wide events, hosted a variety of online events, created various posters and videos, executed Instagram and Youtube video campaigns in collaboration with campus departments, all with COVID-19 restrictions"
       ]
     },
-  ],
-  "volunteer": [
     {
       "organization": "CHKE (Community Events Management)",
       "website": "",
