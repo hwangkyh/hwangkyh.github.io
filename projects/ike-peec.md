@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/peec-poster.png
+image: images/peec-image.png
 title: Using LEDs for Visible Spectrum Color Therapy Along a Temporal Axis
 permalink: projects/ike-peec
 # All dates must be YYYY-MM-DD format!
