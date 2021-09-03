@@ -28,7 +28,8 @@ Through the SCI295VI program and help from the various professors and mentors in
 
 Here is some code that shows the LED emitting amber light at 470 ~ 479 minutes (07:50 ~ 07:59) and the LED changing from amber to light green from 480 ~ 484 minutes (08:00 ~ 08:05).
 
-```} else if ((470 <= timeMinutes) && (timeMinutes <= 479)) { //amber
+```
+} else if ((470 <= timeMinutes) && (timeMinutes <= 479)) { //amber
       Serial.print("amber");
       leds[0].setRGB(255, 191, 0);
 
