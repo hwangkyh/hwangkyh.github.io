@@ -10,7 +10,7 @@ labels:
   - Arduino
   - Engineering
   - Sustainability
-summary: Created Arduino coding project in sustainability for Indigenous Knowledge in Engineering, PEEC II.
+summary: Created Arduino coding project in sustainability for Indigenous Knowledge in Engineering, Pre-Engineering Education Collaborative II.
 ---
 
 <div class="ui small rounded images">
