@@ -88,12 +88,13 @@
     },
     {
       "institution": "University of Hawai'i at Mānoa, Honolulu, HI",
-      "area": "Economics (expected Spring, 2023)",
+      "area": "Economics, with Quantitative Economics Concentration (expected Spring, 2023)",
       "studyType": "B.A.",
       "startDate": "2021-01-01",
       "endDate": "Present",
       "gpa": "3.91/4.00",
-      "courses": ["Econometrics", "Macroeconomics", "Microeconomics", "Statistics (Economics)"
+      "courses": [
+        "Econometrics", "Macroeconomics", "Microeconomics", "Statistics (Economics)"
       ]
     }
   ],
@@ -159,7 +160,7 @@
       "summary": "",
       "highlights": [
         "Member, ACM@MANOA (Association for Computing Machinery), 2021-Present",
-        "Member, Virtual NASA Community College Aerospace Scholars (VNCAS): A NASA Experience, 2021-2021"
+        "Member, Virtual NASA Community College Aerospace Scholars (VNCAS): A NASA Experience, 2021"
       ]
     }
   ],
