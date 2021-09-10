@@ -9,7 +9,7 @@ date: 2021-06-13
 labels:
   - Arduino
   - Engineering
-summary: Sophomore year collaborative engineering project to launch a autonomous Can Satellite (CANSAT) that will release two payloads that will collect data while descending.
+summary: Sophomore year collaborative engineering project to launch a autonomous Can Satellite (CanSat) that will release two payloads that will collect data while descending.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/container-electrical.png">
