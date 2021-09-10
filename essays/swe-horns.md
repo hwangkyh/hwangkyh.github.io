@@ -20,3 +20,5 @@ So far during my university career there was more emphasis on learning the progr
 ## Looking to the future
 
 The skills I’d like to develop namely centers around writing effective and concise code; figuring out the best and fastest methods for my software to run. Of course, being able to recognize the space and time complexities of different programs I write is a key factor in efficient software engineering. All the different modules in ICS 314 are directly preparing me for my future career by, including but not limited to, providing JavaScript programming knowledge, integrated development environments (IDE) exposure, user interface design, and application design. I personally am looking forward to the databases module as I am taking the Data Science track here at UH Mānoa and working with SQL for my part time job with the UH Water Resources Research Center.
+
+[Bull fighter image source](https://qph.fs.quoracdn.net/main-qimg-5a08301b65dca1d3aed4374366744acc-c); [Javascript logo source](https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png)
