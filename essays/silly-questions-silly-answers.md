@@ -1,11 +1,13 @@
 ---
 layout: essay
 type: essay
-title: title
+title: Play Silly Games, Win Silly Prizes
 # All dates must be YYYY-MM-DD format!
 date: 2021-09-09
 labels:
-  - Engineering
+  - Software Engineering
+  - Stack Overflow
+  - Open Source Software
 ---
 
 

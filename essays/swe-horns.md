@@ -9,6 +9,8 @@ labels:
   - Professional Persona
 ---
 
+<img class="ui medium left floated rounded image" src="../images/grab-horns.png">
+
 My interest in software engineering began a decade ago when I taught myself basic HTML and CSS to try and make Tumblr themes for me and my friends exactly to the specifications that we wanted. After foraying into a chemistry degree, the food and beverage industry, a good friend of mine took me to the RISE tech conference in Hong Kong in 2019. It was at this point in life where I was not sure what kind of direction I wanted to go in terms of my career and university degree. The same friend began to give me small projects to help him with his websites that he was building and from that experience I decided to enroll as a computer science student. 
 
 ## Leading up to today
