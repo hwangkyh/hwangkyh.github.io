@@ -23,6 +23,6 @@ Kulite microphones are placed in strategic locations covering most locations of 
 
 Through this summer internship at ARC, NASA, I have successfully created a Python script that takes in .info and .slow or .fast kulite data and produces PSDs for set kulite sequences of runs 3014 (.slow) and 3091 (.fast) depending on mach number. I also did cross correlation between kulites, showing time lag and decay the further downstream the kulite is. An interesting finding from the PSDs was that for the .fast, there was an aliasing problem at 6kHz and so future implications for the uPSP would need to be examined as the uPSP Nyquist frequency is only 5kHz whilst the kulites were sampled at 200kHz.
 
-Acknowledgements: thank you to my mentor David Murakami, fellow intern Jack Ortega, the Uncertainty Quantification group, the uPSP project team geoup, and the Universities Space Research Association (USRA). 
+Acknowledgements: thank you to my mentor David Murakami, fellow intern Jack Ortega, the Uncertainty Quantification group, the uPSP project team group, and the Universities Space Research Association (USRA). 
 
 [Kulite microphone image source](https://kulite.com//assets/media/2017/06/XCQ-080.jpg); [uPSP vehicle model image source](https://www.nasa.gov/sites/default/files/styles/full_width/public/thumbnails/image/upsp_feature_acd15-0208-004.jpg?itok=DmC3jWJh)
