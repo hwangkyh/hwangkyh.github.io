@@ -10,6 +10,7 @@ labels:
   - Open Source Software
 ---
 
+<img class="ui medium left floated rounded image" src="../images/stack-overflow-happy.png">
 
 A PG-version of the common phrase succinctly describes the value in asking smart questions as a smart software engineer. When one asks a silly question on forums such as Stack Overflow, the questioner should not be surprised if at best the question does not get answered and at worst gets sordidly criticized by developers sitting behind a computer. To avoid wasting everyone’s time and successfully getting the answers we desire, it is important to ask smart questions.
 
@@ -24,5 +25,3 @@ On the contrary, if one asks a smart question, oftentimes the answer received ba
 ## Knock, and it shall be opened unto you
 
 Now, I may be biased as I have yet to post a question on Stack Overflow and so cannot confirm nor deny whether I would be a smart questioner but that is also because I truly STFW out of what I need to ask. Despite my lack of questioning experience, from this vantage point I can safely assume that any future questions I ask will tend to the smart side and veer away from the silly side.
-
-<img class="ui medium left floated rounded image" src="../images/stack-overflow-happy.png">
