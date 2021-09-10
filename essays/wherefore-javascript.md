@@ -6,6 +6,7 @@ title: Wherefore art thou JavaScript?
 date: 2021-09-01
 labels:
   - Software Engineering
+  - JavaScript
 ---
 
 <img class="ui medium right floated rounded image" src="../images/romeo-javascript.png">
