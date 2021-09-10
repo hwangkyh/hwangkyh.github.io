@@ -25,3 +25,5 @@ On the contrary, if one asks a smart question, oftentimes the answer received ba
 ## Knock, and it shall be opened unto you
 
 Now, I may be biased as I have yet to post a question on Stack Overflow and so cannot confirm nor deny whether I would be a smart questioner but that is also because I truly STFW out of what I need to ask. Despite my lack of questioning experience, from this vantage point I can safely assume that any future questions I ask will tend to the smart side and veer away from the silly side.
+
+[Happy PC user image source](https://i0.wp.com/www.introtodigital.com/wp-content/uploads/2020/01/Happy-PC-user.png?w=1000&ssl=1); [Stack Overflow logo source](https://cdn.worldvectorlogo.com/logos/stack-overflow.svg)
