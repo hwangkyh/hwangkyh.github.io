@@ -52,3 +52,5 @@ Here is some code that shows the LED emitting amber light at 470 ~ 479 minutes (
 ```
 
 You can learn more at the [Symposium Website](https://sites.google.com/hawaii.edu/2020peeciisymposium/kapcc/kelly-hwang?authuser=0)
+
+All images and figures created by [@hwangkyh](https://hwangkyh.github.io/)
