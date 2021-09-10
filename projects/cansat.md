@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/cansat-image.png
-title: CanSat
+title: 2021 CanSat Engineering Competition
 permalink: projects/cansat
 # All dates must be YYYY-MM-DD format!
 date: 2021-06-13
