@@ -11,6 +11,8 @@ labels:
   - Coding Standards
 ---
 
+<img class="ui small right floated rounded image" src="../images/jgrasp-wrong.png">
+
 It comes to no surprise to anyone who has spent any significant time with me, I like margins, consistent justification, and contact names exclusively in lowercase letters. So, when it was not only required for this class to configure ESLint for ourselves but also that coding standards was a whole module, it was almost embarrassingly exciting.
 
 ## Out with the old, in with the new
@@ -19,7 +21,7 @@ I already have prior experience with the .xml extension as in ICS111 and ICS211 
 
 ## No standard is bad standard
 
-Although it is a mild annoyance to have to download .eslintrc every time and run `npm install`, I would rather a few seconds go there than have code with drunk margins. At times I have come across, obviously not mine, code that felt closer to trolling than legitimate as the subversion of coding standards seemed too deliberate to be true. Not only does this make it massively difficult to read and understand the code, i.e. blocks of loops are not properly indented, it is frankly also visually unappealing. I believe a good programmer can not only fulfill objectives through their code but also make it easy for other people to understand their code. It is quite lonely at the top sometimes and sharing is caring when it comes to making code digestible and understandable.
+Although it is a mild annoyance to have to download .eslintrc and run `npm install` everytime, I would rather a few seconds go there than have code with drunk margins. At times I have come across, obviously not mine, code that felt closer to trolling than legitimate as the subversion of coding standards seemed too deliberate to be true. Not only does this make it massively difficult to read and understand the code, i.e. blocks of loops are not properly indented, it is frankly also visually unappealing. I believe a good programmer can not only fulfill objectives through their code but also make it easy for other people to understand their code. It is quite lonely at the top sometimes and sharing is caring when it comes to making code digestible and understandable.
 
 ## Work smarter not harder
 
