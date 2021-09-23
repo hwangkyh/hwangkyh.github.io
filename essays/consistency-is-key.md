@@ -11,7 +11,7 @@ labels:
   - Coding Standards
 ---
 
-<img class="ui xsmall right floated rounded image" src="../images/jgrasp-wrong.png">
+<img class="ui small right floated rounded image" src="../images/jgrasp-wrong.png">
 
 It comes to no surprise to anyone who has spent any significant time with me, I like margins, consistent justification, and contact names exclusively in lowercase letters. So, when it was not only required for this class to configure ESLint for ourselves but also that coding standards was a whole module, it was almost embarrassingly exciting.
 
@@ -29,4 +29,4 @@ If it has not been obvious, I am a massive fan of using ESLint. I have no qualms
 
 After all, consistency is the key to success. As Anthony Robbins said, "It's not what we do once in a while that shapes our lives. It's what we do consistently."
 
-[jGRASP Checkstyle button source](https://w3.cs.jmu.edu/spragunr/CS139_S16/supplement/checkstyle_file.png)
+[jGRASP Checkstyle button source](https://w3.cs.jmu.edu/spragunr/CS139_S16/supplement/checkstyle_file.png) (apologies for the atrocious pixelation, or lack thereof, of the button, it was the best I could find)
