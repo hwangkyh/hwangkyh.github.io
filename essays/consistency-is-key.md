@@ -11,7 +11,7 @@ labels:
   - Coding Standards
 ---
 
-<img class="ui small right floated rounded image" src="../images/jgrasp-wrong.png">
+<img class="ui xsmall right floated rounded image" src="../images/jgrasp-wrong.png">
 
 It comes to no surprise to anyone who has spent any significant time with me, I like margins, consistent justification, and contact names exclusively in lowercase letters. So, when it was not only required for this class to configure ESLint for ourselves but also that coding standards was a whole module, it was almost embarrassingly exciting.
 
