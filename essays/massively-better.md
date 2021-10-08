@@ -20,7 +20,7 @@ My previous experience with HTML and CSS consists almost exclusively of making a
 
 <div class="ui image">
   <img class="ui floated image" align="center" src="../images/browsers.png" width="45%">
-  <img class="ui floated image" align="center" src="../images/browsers-semantic.png" width="45%">
+  <img class="ui floated image" align="center" vertical-align="center" src="../images/browsers-semantic.png" width="45%">
 </div>
 Left to right: screenshot of E32: BrowserHistory3; screenshot of E34: BrowserHistory with Semantic UI
 
