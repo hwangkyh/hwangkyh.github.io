@@ -20,8 +20,8 @@ My previous experience with HTML and CSS consists almost exclusively of making a
 
 
 <div class="ui medium image">
-  <img class="ui image" src="../images/browsers.png">
-  <img class="ui image" src="../images/browsers-semantic.png">
+  <img class="ui floated image" src="../images/browsers.png">
+  <img class="ui floated image" src="../images/browsers-semantic.png">
 </div>
 Left: screenshot of E32: BrowserHistory3
 Right: screenshot of E34: BrowserHistory with Semantic UI
@@ -50,8 +50,8 @@ The final nail in the coffin of me never not using a UI framework is the wonderf
 I leave you with the fruits of four hours of toiling away at my 13-inch MacBook Pro, an embarrassing amount of time involving changing between the various IntelilJ, HTML and Semantic UI documentation Chrome tabs. At the end, I successfully replicated one of my favorite brand’s product webpage, which honestly I would have taken even longer than 240 minutes if I did not use Semantic UI. Of course it is not perfect, but if I knew how to do it perfectly I would not be here.
 
 <div class="ui medium image">
-  <img class="ui image" src="../images/ethereal-regalia.png">
-  <img class="ui image" src="../images/ethereal-regalia-semantic.png">
+  <img class="ui floated image" src="../images/ethereal-regalia.png">
+  <img class="ui floated image" src="../images/ethereal-regalia-semantic.png">
 </div>
   
 Left: screenshot of [Ethereal Regalia’s Break Up February Tee](https://etherealregalia.com/collections/frontpage/products/break-up-february-tee-printed-version)
