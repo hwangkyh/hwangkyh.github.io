@@ -18,11 +18,10 @@ Why use Semantic UI? You could easily find out by asking last week’s me versus
 
 My previous experience with HTML and CSS consists almost exclusively of making and editing Tumblr themes, circa 2010. At the time, I would grab pre-made containers and menus and customize their attributes to fit my page at the time. I have always been a stickler for lined up margins and even padding, so which is why when I encountered the premade containers and different classes available by Semantic UI it gave me massive joy. Semantic UI is a UI framework that helps coders [“create beautiful, responsive layouts using human-friendly HTML”](https://semantic-ui.com/). I really do agree with this statement as when you compare these two screenshots of the same webpage you could easily guess which one was made by using Semantic UI.
 
-
-<div class="ui container">
-  <img class="ui floated medium image" src="../images/browsers.png">
-  <img class="ui floated medium image" src="../images/browsers-semantic.png">
-</div>
+<p align="center">
+  <img class="ui floated medium image" src="../images/browsers.png" width="45%">
+  <img class="ui floated medium image" src="../images/browsers-semantic.png" width="45%">
+</p>
 Left to right: screenshot of E32: BrowserHistory3; screenshot of E34: BrowserHistory with Semantic UI
 
 ## As Easy As Pie
