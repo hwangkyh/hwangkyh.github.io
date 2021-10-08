@@ -23,9 +23,7 @@ My previous experience with HTML and CSS consists almost exclusively of making a
   <img class="ui floated image" src="../images/browsers.png">
   <img class="ui floated image" src="../images/browsers-semantic.png">
 </div>
-Left: screenshot of E32: BrowserHistory3
-
-Right: screenshot of E34: BrowserHistory with Semantic UI
+Left to right: screenshot of E32: BrowserHistory3; screenshot of E34: BrowserHistory with Semantic UI
 
 ## As Easy As Pie
 
@@ -55,9 +53,7 @@ I leave you with the fruits of four hours of toiling away at my 13-inch MacBook 
   <img class="ui floated image" src="../images/ethereal-regalia-semantic.png">
 </div>
   
-Left: screenshot of [Ethereal Regalia’s Break Up February Tee](https://etherealregalia.com/collections/frontpage/products/break-up-february-tee-printed-version)
-
-Right: screenshot of [E36: Your Choice with Semantic UI](https://github.com/hwangkyh/etherealregalia)
+Left to right: screenshot of [Ethereal Regalia’s Break Up February Tee](https://etherealregalia.com/collections/frontpage/products/break-up-february-tee-printed-version); screenshot of [E36: Your Choice with Semantic UI](https://github.com/hwangkyh/etherealregalia)
 
 
 `*` please read this in SpongeBob’s French narrator voice
