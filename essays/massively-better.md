@@ -42,7 +42,7 @@ The final nail in the coffin of me never not using a UI framework is the wonderf
 
 ## Kanye, Kim, Daft, and Punk
 
-I leave you with the fruits of four hours of toiling away at my 13-inch MacBook Pro, an embarrassing amount of time involving changing between the various IntelilJ, HTML and Semantic UI documentation Chrome tabs. At the end, I successfully replicated one of my favorite brand’s product webpage, which honestly I would have taken even longer than 240 minutes.
+I leave you with the fruits of four hours of toiling away at my 13-inch MacBook Pro, an embarrassing amount of time involving changing between the various IntelilJ, HTML and Semantic UI documentation Chrome tabs. At the end, I successfully replicated one of my favorite brand’s product webpage, which honestly I would have taken even longer than 240 minutes if I did not use Semantic UI. Of course it is not perfect, but if I knew how to do it perfectly I would not be here.
 
 <img class="ui medium left floated image" src="../images/ethereal-regalia-semantic.png">
 <img class="ui medium right floated image" src="../images/ethereal-regalia.png">
