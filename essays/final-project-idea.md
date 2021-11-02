@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Final Project Idea
 # All dates must be YYYY-MM-DD format!
-date: 2021-1-02
+date: 2021-11-02
 labels:
   - Software Engineering
   - Meteor
