@@ -11,7 +11,8 @@ labels:
 ---
 
 ## HACC Team
-[Jacob Hardy](https://jakehardy95.github.io/), [Kelly Hwang](https://hwangkyh.github.io/) [Kiana Walters](https://kianaleilani.github.io/), [Kylie Higashionna](https://kyliehigashionna.github.io/), [Taryn Takebayashi](https://microtaryn.github.io/)
+[Jacob Hardy](https://jakehardy95.github.io/), [Kelly Hwang](https://hwangkyh.github.io/), [Kiana Walters](https://kianaleilani.github.io/), [Kylie Higashionna](https://kyliehigashionna.github.io/), [Taryn Takebayashi](https://microtaryn.github.io/)
+
 
 ## Overview
 
@@ -42,13 +43,36 @@ For the desktop public user, upon signing in, the public user landing page will 
 
 For the desktop admin user, upon signing in, the admin user landing page will have two options of “Enter a New Report” for when the desktop admin user receives a phone call about an animal in distress or animal sighting and needs to log it, or “Look at Records” to see past and current reports. The page from “Enter a New Report” will be the same as the public user landing page with options of “Animal is Distress”, “Animal Sighting”, and “Click for More Information”, where these buttons will direct the user to the same pages as noted in the previous paragraph. The “Look at Records” button will direct them to a page which will show a database table that lists the information of submission such as the data, location, type of animal, and any notes of distress from most recent to old. This page will also have a “Return to Home Page” button which will allow the user to go back to the admin user landing page.
 
+Mockup pages:
+* Landing page
+* Sign in page
+* Sign up page
+* Profile edit page
+* Public user landing page (same as admin user "Enter a New Report" page)
+* "Animal in Distress" page
+* "Animal Sighting" page
+* "Click for More Information" page
+* Admin user landing page
+* "Look at Records" page
+
+
 ## Use Case Ideas
 
 As mentioned above, there will be two types of users: “public” users and “office” admin users. As the original HACC app was developed into two different apps, one for the public to report sightings and the other for the office admins to access reported sightings but also be able to report it themselves, the 314 app will integrate both apps into one app.
 
+
 ## Beyond the Basics
 
-dd
+For the admin user “Look at Records” page, the different fields of data would be initially organized by date from most recent to old. To increase functionality, the table will be able to be sorted according to different filters and sorts, so that the admin user can see by date, location, type of animal, and be able to search for specific keywords under the different distress categories.
+
+To standardize the date, time, and locations across all users, we will be using the jQuery datepicker and timepicker to make the date and time entry format easy for the user, and a clickable SVG map that lets the user select the location of the sighting. The clickable SVG map will auto populate the location field with the longitude and latitude GPS coordinates of the selected beach.
+
+Due to the presumed success of standardizing location by using the clickable SVG map, we also plan to make clickable graphics wherever applicable to standardize sighting information as much as possible to relieve HMAR staff from having to manually group together similar or filter database entries. For example, the HMAR staff is interested in knowing if Hawaiian Monk Seals have any identifying markings as this helps them track if a seal is getting injured or sick often during a given time period. By providing a clickable graphic of a monk seal, both a top view and bottom view, users will be able to easily click on where they see scars or identifying tags on the animal.
+
+Since many seabird species are similar in appearance, often varying shades of gray with black and white, we also plan on either 1) using clickable pictures of seabirds when the user is filling in a report for the seabird, or 2) linking to and/or embedding a page with example photos of the different seabirds that HMAR monitors. This feature will be useful especially for the public or layperson that may not be as familiar with what each species of seabird looks like.
+
+The “Click for More Information” page, a button available on the public user landing page, is a page that describes what an animal in distress looks like. It can sometimes be hard to determine what would be categorized as a reportable distress, so with having multiple pictures and descriptions on what counts as distress, users will have an easier time knowing whether to choose between reporting a “Animal is Distress” or “Animal Sighting”.
+
 
 ## Schedule
 
