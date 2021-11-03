@@ -84,4 +84,4 @@ Final Project, F Nov 12 - F Dec 10
 * Final Project Milestone 2, Nov 30
   * Add users / admin functionality
 * Final Project Milestone 3, Dec 09
-  * Polishing, database filtering, optimizing for all devices
+  * Polishing, "Beyond the Basics", optimizing for all devices
