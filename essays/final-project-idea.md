@@ -16,6 +16,8 @@ labels:
 
 ## Overview
 
+<img class="ui small left floated rounded image" src="../images/hmar-logo.jpg">
+
 For [HACC 2021](https://hacc.hawaii.gov/), we decided to ​choose the challenge proposed by NIC Hawaii, the [Hawaii Marine Animal Response (HMAR) Sighting & Reporting App](https://hacc.hawaii.gov/wp-content/uploads/2021/10/NIC_Challenge-Submission-Form_2021.pdf). Currently HMAR handles all animal sighting reports by phone. HMAR and NIC mentioned that they would like to have the ability to handle reports via an application as well - to decrease the amount of phone traffic and confusion as well as make it easier to record each sighting.
 
 Our solution for HMAR HACC’s problem is twofold: one application for the mobile user who is the public or volunteers reporting animal sightings on the go, and another for the desktop user who is the HMAR staff that is managing the sighting reports database. We are using Microsoft’s Azure Portal to host our database, which we built using MySQL. The webpages are served out by Apache and we are using PHP to provide the middleware and the front-end. For our mobile application, we are using Cordova.
