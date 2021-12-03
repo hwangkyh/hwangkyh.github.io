@@ -11,7 +11,7 @@ labels:
   - Meteor
 ---
 
-## Patterns for Design
+## General Problems Require General Solutions
 
 What are design patterns? It's in the name really, design patterns are general solutions to general problems that have been developed for and by software developers through trial and error. The benefit of having design patterns is that they use standard terminology and provide solutions to different scenarios whilst also being the best option due to the long time and hours being poured into making design patterns. There are three main pattern types as defined by the Gang of Four: creational, structural, and behavioral. Diving in specifically to the behavioural pattern types, these largely deal with communication between objects. The iterator pattern is a behavioral pattern that is very commonly used to access elements by traversing containers sequentially without the need for the underlying representation. 
 
