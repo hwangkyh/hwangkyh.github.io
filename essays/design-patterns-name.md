@@ -17,24 +17,12 @@ What are design patterns? It's in the name really, design patterns are general s
 
 ## Graphic Design Patterns are my Passion
 
-<img class="ui floated image" align="center" src="../images/spotifygraphic.jpg" width="30%">
+<img class="ui floated image" align="center" src="../images/spotifygraphic.jpg" width="25%">
 
-It's that time of the year when everyone who uses Spotify checks their Spotify Unwrapped and is presented with tasteful graphics of their music tastes over the last year. As much as I would love to express my personal distaste of 2021's graphic design choices (exemplified in the parody graphic above), this is not the reason I bring this up. The iterator pattern can be seen in media players such as Spotify, where in a playlist there is a list of songs of to choose from and I can select any one of them. By traversing through the playlist, I do not access the underlying representations of each song, i.e. album, artist, genre, but can still play a song of my choice.
+It's that time of the year when everyone who uses Spotify checks their Spotify Unwrapped and is presented with tasteful graphics of their music tastes over the last year. As much as I would love to express my personal distaste of 2021's graphic design choices (exemplified in the parody graphic on the left), this is not the reason I bring this up. The iterator pattern can be seen in media players such as Spotify, where in a playlist there is a list of songs of to choose from and I can select any one of them. By traversing through the playlist, I do not access the underlying representations of each song, i.e. album, artist, genre, but can still play a song of my choice.
 
 
 ## Final Design Pattern
 
-The final nail in the coffin of me never not using a UI framework is the wonderful documentation available for Semantic UI. Since we were on the topic of [buttons](https://semantic-ui.com/elements/button.html), let me just tell you how many different customizable options there are for them. Mind you, most of the time this involves either adding one or two modifier words in the class, and sometimes up to a few lines – but never anything as time consuming and totally eliminates the guesswork required to finagle exact properties. A short and non-exhaustive list of customizable options of buttons are: animations, labels, less or more pronounced, inverted background, color, active versus disabled, social website links, left or right floated, toggles, size all the way up to fluid, grouped vertically and horizontally, etc. The visual layout of the documentation makes it really easy to search for an editable attribute and the source code is only a short embedded click away.
+For Bloombugs' final project for ICS314, we have been working on improving our [HACC application](https://bloombugs.github.io/). Due to the complexity of the application, we have implemented many different design patterns to concisely and effectively write the application. We specifically use the iterator pattern to represent the data collections of distress reports via a table. After users submit their distress reports, they are aggregated on a table that is only accessible to admin users. Here, the [DistressTable.jsx](https://github.com/bloombugs/application/blob/master/app/imports/ui/pages/DistressTable.jsx) file
 
-## Kanye, Kim, Daft, and Punk
-
-I leave you with the fruits of four hours of toiling away at my 13-inch MacBook Pro, an embarrassing amount of time involving changing between the various IntelilJ, HTML and Semantic UI documentation Chrome tabs. At the end, I successfully replicated one of my favorite brand’s product webpage, which honestly I would have taken even longer than 240 minutes if I did not use Semantic UI. Of course it is not perfect, but if I knew how to do it perfectly I would not be here.
-
-<div class="ui image">
-  <img class="ui floated image" align="center" src="../images/ethereal-regalia.png" width="45%">
-  <img class="ui floated image" align="center" src="../images/ethereal-regalia-semantic.png" width="45%">
-</div>
-Left to right: screenshot of [Ethereal Regalia’s Break Up February Tee](https://etherealregalia.com/collections/frontpage/products/break-up-february-tee-printed-version); screenshot of [E36: Your Choice with Semantic UI](https://github.com/hwangkyh/etherealregalia)
-
-
-`*` please read this in SpongeBob’s French narrator voice
