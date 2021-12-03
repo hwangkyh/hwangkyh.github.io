@@ -17,7 +17,7 @@ What are design patterns? It's in the name really, design patterns are general s
 
 ## Graphic Design Patterns are my Passion
 
-<img class="ui floated image" align="center" src="../images/spotifygraphic.jpg" width="10%">
+<img class="ui floated image" align="center" src="../images/spotifygraphic.jpg" width="15%">
 
 It's that time of the year when everyone who uses Spotify checks their Spotify Unwrapped and is presented with tasteful graphics of their music tastes over the last year. As much as I would love to express my personal distaste of 2021's graphic design choices (exemplified in the parody graphic on the left), this is not the reason I bring this up. The iterator pattern can be seen in media players such as Spotify, where in a playlist there is a list of songs of to choose from and I can select any one of them. By traversing through the playlist, I do not access the underlying representations of each song, i.e. album, artist, genre, but can still play a song of my choice.
 
