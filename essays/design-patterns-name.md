@@ -24,5 +24,21 @@ It's that time of the year when everyone who uses Spotify checks their Spotify U
 
 ## Final Design Pattern
 
-For Bloombugs' final project for ICS314, we have been working on improving our [HACC application](https://bloombugs.github.io/). Due to the complexity of the application, we have implemented many different design patterns to concisely and effectively write the application. We specifically use the iterator pattern to represent the data collections of distress reports via a table. After users submit their distress reports, they are aggregated on a table that is only accessible to admin users. Here, the [DistressTable.jsx](https://github.com/bloombugs/application/blob/master/app/imports/ui/pages/DistressTable.jsx) file
+```
+const columns = [
+  { name: 'Date', selector: row => row.date, sortable: true },
+  { name: 'Time', selector: row => row.time, sortable: true },
+  { name: 'Animal', selector: row => row.animal, sortable: true },
+  { name: 'Name', selector: row => row.name, sortable: true },
+  { name: 'Phone', selector: row => row.phone, sortable: true },
+  { name: 'Location', selector: row => row.location, sortable: true },
+  { name: 'Latitude', selector: row => row.latitude, sortable: true },
+  { name: 'Longitude', selector: row => row.longitude, sortable: true },
+  { name: 'Description', selector: row => row.description, sortable: true },
+  { name: 'Image', selector: row => row.image, sortable: true },
+  { name: 'Edit', selector: row => <Link to={`/edit/${row._id}`}>Edit</Link> },
+];
+```
+
+For Bloombugs' final project for ICS314, we have been working on improving our [HACC application](https://bloombugs.github.io/). Due to the complexity of the application, we have implemented many different design patterns to concisely and effectively write the application. We specifically use the iterator pattern to represent the data collections of distress reports via a table. After users submit their distress reports, they are aggregated on a table that is only accessible to admin users. Here, the [DistressTable.jsx](https://github.com/bloombugs/application/blob/master/app/imports/ui/pages/DistressTable.jsx) page displays all of the distress reports submitted as a table, which can also be 
 
