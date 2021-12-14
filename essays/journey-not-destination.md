@@ -10,6 +10,8 @@ labels:
   - Technology Stack
 ---
 
+not done
+
 ## Ready, Set, Go
 
 Now that you are almost done with this class, I would like you to write on last essay that summarizes what you’ve learned about software engineering.
@@ -30,7 +32,7 @@ For this essay, reflect on what you learned about software engineering in genera
 Be careful and do not assume the reader understands what “configuration management” or “design patterns” or whatever means. You must define these terms if you are using them.
 
 
-## Find the X on the Map
+## Find the X on the map
 
 <img class="ui floated image" align="center" src="../images/" width="15%">
 
@@ -40,5 +42,5 @@ Be careful and do not assume the reader understands what “configuration manage
 
 
 
-## See You Again?
+## See you again?
 
