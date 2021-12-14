@@ -8,7 +8,7 @@
 
 {% for entry in site.data.bio.projects %}
   <div class="twelve wide column no-bottom">
-    <p class="ui no-bottom"><b>{{ entry.position }}, {{ entry.company }}</b></p>
+    <p class="ui no-bottom"><b>{{ entry.title }}, {{ entry.organizer }}</b></p>
     <p class="ui no-bottom"><a href="{{ entry.website }}">{{ entry.website | remove: "http://" | remove: "https://" }}</a></p>
   </div>
   <div class="four wide right aligned column no-bottom">
