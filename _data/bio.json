@@ -166,8 +166,8 @@
   ],
   "projects": [
     {
-      "company": "Water Resources Research Center at University of Hawai’i at Mānoa",
-      "position": "Assistant Software Developer",
+      "organizer": "Hawai'i Annual Code Challenge 2021",
+      "title": "Bloombugs Kahukai Application",
       "website": "",
       "startDate": "2021-03-01",
       "endDate": "Present",
@@ -178,19 +178,7 @@
         "Technologies used: Linux environment, Ansible, Docker, DKAN, SQL, Node"
       ]
     },
-    {
-      "company": "Ames Research Center, National Aeronautics and Space Administration (NASA)",
-      "position": "Summer Full-time Data Analysis Intern",
-      "website": "",
-      "startDate": "2021-05-24",
-      "endDate": "2021-08-13",
-      "summary": "",
-      "highlights": [
-        "Analyzed and processed data for unsteady pressure sensitive paint (uPSP) project by cross-correlating kulite microphone and uPSP data for a new wind tunnel pressure measurement system, and additional statistical research",
-        "Produced multiple PSDs using Python scripts to show cross-correlation, time lag, and decay at sampled frequencies", 
-        "Technologies used: Python, Linux environment, data visualization, script automation"
-      ]
-    },
+    
   ],
   "awards": [
     {
