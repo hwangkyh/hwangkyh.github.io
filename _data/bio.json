@@ -168,17 +168,66 @@
     {
       "organizer": "Hawai'i Annual Code Challenge 2021",
       "title": "Bloombugs Kahukai Application",
-      "website": "",
+      "website": "https://bloombugs.github.io/",
       "startDate": "2021-03-01",
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Providing computer science and information technology support across various research opportunities and data portals",
-        "Applying data science algorithms to work with data and applying prepackaged software stacks to relevant project tasks",
-        "Technologies used: Linux environment, Ansible, Docker, DKAN, SQL, Node"
+        "Placed 2nd overall out of 44 teams",
+        "Created a web application for HACC 2021's Hawai'i Marine Animal Response (HMAR), NIC Hawaii. This sighting and reporting app is to help streamline the process for the public to report monk seals, turtles, and seabirds, to be on a 24/7 web app instead of by call logs",
+        "Technologies used: Meteor, MongoDB, React, Semantic UI, Javascript, HTML/CSS"
       ]
     },
-    
+    {
+      "organizer": "CanSat Competition 2021",
+      "title": "Autorotating Science Payload Relay Mission",
+      "website": "https://bloombugs.github.io/",
+      "startDate": "2020-09-01",
+      "endDate": "2021-07-01",
+      "summary": "Electrical Team Member, Grant Recipient",
+      "highlights": [
+        "Designed a launchable canister satellite and ejectable autorotating maple seed projectiles according to set objectives",
+        "Developed the electrical engineering team’s sensor, communication & data handling, electrical power, flight software, and ground control station subsystems for final competition review",
+        "Technologies used: Arudino, MQTT, Visual Studio"
+      ]
+    },
+    {
+      "organizer": "Virtual NASA Community College Aerospace Scholars (VNCAS)",
+      "title": "A NASA Experience",
+      "website": "https://bloombugs.github.io/",
+      "startDate": "2021-07-01",
+      "endDate": "2021-07-31",
+      "summary": "",
+      "highlights": [
+        "Accepted into virtual NASA experience for July 2021 by engaging in self-paced modules about NASA missions, aeronautics, and in-situ resource utilization capabilities",
+        "Competed in an interactive team competition to plan a lunar mission and placed second",
+        "Selected to be the budget officer and mission schedule analyst, assisted in producing daily deliverables during the two weeks"
+      ]
+    },
+    {
+      "organizer": "Hacking 4 Recovery (H4R)",
+      "title": "nFloo",
+      "website": "https://bloombugs.github.io/",
+      "startDate": "2020-08-01",
+      "endDate": "2020-08-31",
+      "summary": "H4R organized by the UH Office of Innovation and Commercialization",
+      "highlights": [
+        "Engaged in an intensive 5-day bootcamp in diversifying Hawai’i's economy after COVID-19 through lean startup method",
+        "Implemented entrepreneurial strategies to create a social media platform to connect clients with their audience"
+      ]
+    },
+    {
+      "organizer": "Pre-Engineering Education Collaborative II",
+      "title": "Indigenous Knowledge in Engineering",
+      "website": "https://bloombugs.github.io/",
+      "startDate": "2021-03-01",
+      "endDate": "Present",
+      "summary": "Scholarship Recipient",
+      "highlights": [
+        "Created personal project in sustainability, 'Using LEDs for Visible Spectrum Color Therapy Along a Temporal Axis'",
+        "Arduino microcontrollers to write code to visually represent time changing every day in an LED panel"
+      ]
+    },
   ],
   "awards": [
     {
