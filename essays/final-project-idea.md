@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Final Project Idea
+title: Ideas Will Come Into Fruition
 # All dates must be YYYY-MM-DD format!
 date: 2021-11-02
 labels:
@@ -81,13 +81,3 @@ Since many seabird species are similar in appearance, often varying shades of gr
 
 The “Click for More Information” page, a button available on the public user landing page, is a page that describes what an animal in distress looks like. It can sometimes be hard to determine what would be categorized as a reportable distress, so with having multiple pictures and descriptions on what counts as distress, users will have an easier time knowing whether to choose between reporting a “Animal is Distress” or “Animal Sighting”.
 
-
-## Schedule
-
-Final Project, F Nov 12 - F Dec 10
-* Final Project Milestone 1, Nov 18
-  * Finish HACC application
-* Final Project Milestone 2, Nov 30
-  * Add users / admin functionality
-* Final Project Milestone 3, Dec 09
-  * Polishing, "Beyond the Basics", optimizing for all devices
