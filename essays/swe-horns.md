@@ -1,6 +1,6 @@
 ---
-layout: essay
-type: essay
+layout: 
+type: 
 title: Grab Software Engineering by the Horns
 # All dates must be YYYY-MM-DD format!
 date: 2021-09-02
