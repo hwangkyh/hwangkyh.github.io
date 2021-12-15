@@ -1,6 +1,7 @@
 ---
-layout: 
-type: 
+layout: essay
+type: essay
+draft: true
 title: Wherefore art thou JavaScript?
 # All dates must be YYYY-MM-DD format!
 date: 2021-09-01
