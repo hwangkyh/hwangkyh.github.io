@@ -29,17 +29,17 @@
   },
   "interests": [
     {
-      "name": "data science",
+      "name": "Data Science",
       "keywords": [
       ]
     },
     {
-      "name": "quantitative finance",
+      "name": "Machine Learning",
       "keywords": [
       ]
     },
     {
-      "name": "machine learning",
+      "name": "Quantitative Finance",
       "keywords": [
       ]
     }
