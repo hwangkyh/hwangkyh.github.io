@@ -83,7 +83,15 @@
       "endDate": "Present",
       "gpa": "3.91/4.00",
       "courses": [
-        "Algorithms (ICS 311)", "C and C++ Programming (ICS 212)", "Discrete Mathematics (MATH 301)", "Java Programming (ICS 111, ICS 211)", "Machine Learning (ICS 235)", "Probability and Statistics (MATH 372)", "Software Engineering (ICS 314)"
+        "Algorithms (ICS311)", 
+        "C and C++ Programming (ICS212)", 
+        "Calculus I~IV (MATH241, MATH242, MATH243, MATH244)",
+        "Discrete Mathematics (MATH301)", 
+        "Java Programming (ICS111, ICS211)", 
+        "Linear Algebra and Differential Equations (MATH307)",
+        "Machine Learning (ICS235)", 
+        "Probability and Statistics (MATH372)", 
+        "Software Engineering (ICS314)"
       ]
     },
     {
@@ -94,7 +102,11 @@
       "endDate": "Present",
       "gpa": "3.91/4.00",
       "courses": [
-        "Econometrics (ECON 425)", "Economic Forecasting (ECON 427)", "Macroeconomics (ECON 131, ECON 300)", "Microeconomics (ECON130, ECON301)", "Statistics (ECON 321)"
+        "Econometrics (ECON425)", 
+        "Economic Forecasting (ECON427)", 
+        "Macroeconomics (ECON131, ECON300)", 
+        "Microeconomics (ECON130, ECON301)", 
+        "Statistics for Economics (ECON321)"
       ]
     }
   ],
